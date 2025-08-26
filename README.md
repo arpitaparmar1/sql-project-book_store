@@ -47,4 +47,7 @@ Sales trends over time.
 This project lays the groundwork for more advanced analysis. Future work could include building a customer segmentation model, developing a book recommendation engine, or integrating marketing data to measure campaign effectiveness.
 
 🙏 Provide by:
-  Name: Arpitaba Parmar M.
+
+  Name:
+  
+  Arpitaba Parmar M.
